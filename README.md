@@ -15,13 +15,13 @@ The plugin adds target="_blank", which opens external links in new window or tab
 
 Enable and configure your plugin in _config.yml by adding the following
 
-{% raw %}
+<pre>
 nofollow:
     enable: true
     exclude:
     - site1.com
     - site2.com
-{% endraw %}
+</pre>
 
 First you specify enable : true to enable the plugin .
 
