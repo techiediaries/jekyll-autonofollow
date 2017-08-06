@@ -33,6 +33,8 @@ You are more than welcome to contribute.
 
 Simply fork the repo and send a pull request. 
 
+Created by [Techiediaries](https://www.techiediaries.com)
+
 ## Release History
 
 * 1.0.0 Initial release
