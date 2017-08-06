@@ -6,12 +6,12 @@ require 'jekyll/autonofollow/version'
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-autonofollow"
   spec.version       = Jekyll::Autonofollow::VERSION
-  spec.authors       = ["mrnerd"]
-  spec.email         = ["mr0.0nerd@gmail.com"]
+  spec.authors       = ["techiediaries"]
+  spec.email         = ["techiediaries9@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "jekyll-autonofollow is a Jekyll plugin that adds rel='nofollow' to all external urls in your posts."
+  spec.description   = "jekyll-autonofollow is a Jekyll plugin that adds rel='nofollow' to all external urls in your posts."
+  spec.homepage      = "https://www.techiediaries.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
